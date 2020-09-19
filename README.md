@@ -1,0 +1,2 @@
+# js-mono
+Monorepo experiment
